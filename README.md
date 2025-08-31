@@ -24,3 +24,6 @@ Etapa 3:
 Nome da ferramenta: Amazon S3 Intelligent-Tiering
 Foco da ferramenta: Otimização de custo de armazenamento de dados.
 Descrição de caso de uso: Aplicar o Amazon S3 Intelligent-Tiering aos buckets de armazenamento de dados da empresa. Este serviço monitora automaticamente os padrões de acesso aos objetos e os move para a camada de armazenamento mais econômica (como a camada de acesso infrequente), sem comprometer o desempenho ou a disponibilidade. Isso garantirá uma economia significativa em custos de armazenamento, especialmente para dados que não são acessados com frequência.
+
+Conclusão
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado a redução de custos e a otimização de recursos, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
